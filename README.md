@@ -1,4 +1,4 @@
-# Cummunity AWS Balkanas Office Hours
+# Community AWS Balkanas Office Hours
 
 Svakog zadnjeg Petka u mjesecu sa pocetkom od 17 sati organizujemo live stream **Community AWS Balkans Office Hours** na kojem razgovaramo i disktujemo o AWS servisima, novostima za AWS servise, desavanjima u lokalnoj AWS zajednici na Balkanu i generalno stvarima koje smatramo da bi bile zanimljive i bitne korisnicima AWS clouda. 
 
