@@ -11,5 +11,26 @@ Live Stream mozete pratiti na YouTube-u preko linka ispod:
 Snimici dosadasnjih office hours sesija:
 - Community AWS Balkans Office Hours - Friday March 31st - [YouTube Video]() | [Biljeske](31-04.2022.md)
 
+## AWS Resources  
+- [AWS Documentation](https://aws.amazon.com/documentation-overview/)
+- [AWS YouTube](https://www.youtube.com/user/AmazonWebServices)
+- [AWS Events YouTube](https://www.youtube.com/@AWSEventsChannel)
+- [AWS Online Tech Talks YouTube](https://www.youtube.com/@AWSOnlineTechTalks)  
+- [AWS Partner Network](https://www.youtube.com/@AWSPartnerNetwork)
+- [:octocat: AWS Samples](https://github.com/aws-samples)  
+- [:octocat: Amazon Web Services - Labs](https://github.com/awslabs)
+- [AWS Architecture Center](https://aws.amazon.com/architecture)
+- [AWS Blog](https://aws.amazon.com/blogs/)
+- [AWS Twitch Kanal](https://www.twitch.tv/aws)  
+- [AWS re:Post](https://repost.aws/)
+- [reddit/r/aws](https://www.reddit.com/r/aws/)
+- [AWS Stash](https://awsstash.com/)
+
+## AWS Community Resources
+- [dev.to - AWS Heroes](https://dev.to/aws-heroes)  
+- Twitter...
+## Join AWS User group in your country
+
+- [Find an AWS User Group](https://aws.amazon.com/developer/community/usergroups/?community-user-groups-cards.sort-by=item.additionalFields.ugName&community-user-groups-cards.sort-order=asc&awsf.location=*all&awsf.category=*all)
 ## Disclaimer 
 Community AWS Balkans Office Hours su organizovani od strane AWS zajednice na Balkanu i ne predstavljaja zvanicni AWS dogadjaj. 
