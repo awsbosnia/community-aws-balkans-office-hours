@@ -12,6 +12,7 @@ Snimici dosadasnjih office hours sesija:
 - Community AWS Balkans Office Hours - Friday March 31st - [YouTube Video]() | [Biljeske](31-04.2022.md)
 
 ## AWS Resources  
+- [What's New with AWS?](https://aws.amazon.com/new/)
 - [AWS Documentation](https://aws.amazon.com/documentation-overview/)
 - [AWS YouTube](https://www.youtube.com/user/AmazonWebServices)
 - [AWS Events YouTube](https://www.youtube.com/@AWSEventsChannel)
@@ -21,6 +22,8 @@ Snimici dosadasnjih office hours sesija:
 - [:octocat: Amazon Web Services - Labs](https://github.com/awslabs)
 - [AWS Architecture Center](https://aws.amazon.com/architecture)
 - [AWS Blog](https://aws.amazon.com/blogs/)
+- [BuildOn.AWS](https://www.buildon.aws/)
+- [AWS Workshops](https://workshops.aws/)
 - [AWS Twitch Kanal](https://www.twitch.tv/aws)  
 - [AWS re:Post](https://repost.aws/)
 - [reddit/r/aws](https://www.reddit.com/r/aws/)
@@ -28,6 +31,7 @@ Snimici dosadasnjih office hours sesija:
 
 ## AWS Community Resources
 - [dev.to - AWS Heroes](https://dev.to/aws-heroes)  
+- [Last Week in AWS](https://ref.lastweekinaws.com/dfiinf)
 - Twitter...
 ## Join AWS User group in your country
 
