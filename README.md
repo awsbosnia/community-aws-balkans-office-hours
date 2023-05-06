@@ -9,9 +9,9 @@ Live Stream mozete pratiti na YouTube-u preko linka ispod:
 
 ## Office Hours Recordings  
 Snimici dosadasnjih office hours sesija:
-- Community AWS Balkans Office Hours - Friday March 31st - [YouTube Video](https://www.youtube.com/watch?v=uM4KjqDc9gY) | [Biljeske](31-03-2022.md)
-- - Community AWS Balkans Office Hours - Friday Aril 28th - [YouTube Video]() | [Biljeske]()
-
+- Community AWS Balkans Office Hours - Friday May 26th - [YouTube Video]() | [Biljeske]()
+- Community AWS Balkans Office Hours - Friday Aril 28th - [YouTube Video](https://www.youtube.com/live/N54WwMcR214) | [Biljeske](28-04-2023.md)
+- Community AWS Balkans Office Hours - Friday March 31st - [YouTube Video](https://www.youtube.com/watch?v=uM4KjqDc9gY) | [Biljeske](31-03-2023.md)
 ## AWS Resources  
 - [What's New with AWS?](https://aws.amazon.com/new/)
 - [AWS Documentation](https://aws.amazon.com/documentation-overview/)
